@@ -1,1 +1,1 @@
-# PIC2
+# PIC2 is for ions
